@@ -351,7 +351,8 @@
 			baseConfigurationReference = 2EDB58522B08220C806B01A3 /* Pods-ReaseTest.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 20190626.04;
 				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = ReaseTest/Info.plist;
@@ -374,7 +375,8 @@
 			baseConfigurationReference = F4F6D77830293D71864F3827 /* Pods-ReaseTest.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Manual;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 20190626.04;
 				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = ReaseTest/Info.plist;
